@@ -1,0 +1,18 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": ">=7.10.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "author": "Ramon Tenório <ramon@nodementor.com> (http://www.nodementor.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
